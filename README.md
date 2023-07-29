@@ -4,7 +4,7 @@
 
 **👀 Who am I?**
 
-Currently I'm pursuing my B.tech(CSE) from Sikkim Manipal Institute of Technology with a interest in programming in C, C++, Python and Web designing. 
+ I completed  my B.tech(CSE) from Sikkim Manipal Institute of Technology. I have interest in programming in C, C++, Python and Web designing. 
 
 - Quick Learner , highly engaged, passionate.
 - Self-motivation , an initiative with a high level of energy.
